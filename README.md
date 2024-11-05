@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Jubayer Ahmed!
-#### Software Engineer | Full-Stack Developer 🔹 Passionate about .NET, ASP.NET Core, Android, SQL Server, and all things tech!
-![Software Engineer | Full-Stack Developer 🔹 Passionate about .NET, ASP.NET Core, Android, SQL Server, and all things tech!](https://media.licdn.com/dms/image/v2/D5616AQGxn4VIJdD4Aw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730782438881?e=1736380800&v=beta&t=mKn5mMO_PiJ_KEt866TkivHHKV-NA-oMt243GPfKbXA)
+🔹 Software Engineer | Full-Stack Developer
+🔹 Passionate about .NET, ASP.NET Core, Android, SQL Server, and all things tech!
 
 I am an experienced software developer in building innovative and user-focused applications. My journey in tech has taken me through various technologies and projects, allowing me to work across the full software development lifecycle—from concept and design to delivery and ongoing support.
 
